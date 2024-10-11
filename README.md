@@ -1,6 +1,8 @@
-# template
+# gomponents language server
 
 [![Go](https://github.com/maragudk/template/actions/workflows/ci.yml/badge.svg)](https://github.com/maragudk/template/actions/workflows/ci.yml)
+
+An attempt to create a language server for gomponents with the Language Server Protocol (LSP).
 
 Made with ✨sparkles✨ by [maragu](https://www.maragu.dev/).
 
